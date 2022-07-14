@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+registry/__pycache__/
+registry/testing/.ipynb_checkpoints/
+registry/testing/__pycache__/
+venv/
